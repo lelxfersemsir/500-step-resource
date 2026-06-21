@@ -1,2 +1,14 @@
 # 500-step-resource
-HTML page archive and documentation
+
+仓库页面索引说明
+
+这里用于集中归档一批静态 HTML 页面文件。
+
+## 存放说明
+
+- 页面内容写入独立 HTML 文件
+- 仓库说明保持在 README 中
+
+## 维护方式
+
+发布程序会按配置写入文件，手动修改时请保留现有结构。
